@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "",
-  "repository": "PascalHelbig/bigram",
+  "repository": "PascalHelbig/hwr-ngram",
   "author": {
     "name": "Pascal Helbig",
     "email": "pascalhelbig@gmail.com",
