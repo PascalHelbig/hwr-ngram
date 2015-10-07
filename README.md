@@ -1,20 +1,18 @@
-# bigram [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# hwr-ngram [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > 
 
 
 ## Install
 
 ```sh
-$ npm install --save bigram
+$ npm install --save hwr-ngram
 ```
 
 
 ## Usage
 
 ```js
-var bigram = require('bigram');
-
-bigram('Rainbow');
+var ngram = require('hwr-ngram');
 ```
 
 ## License
