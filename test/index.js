@@ -41,4 +41,12 @@ describe('bigram', function () {
     bigram.learn('she like cats');
     assert.deepEqual(bigram.prediction('she like'), ['cats']);
   });
+
+  it('should work as treegram', function() {
+    var treegram = require('../lib');
+    treegram.n = 3;
+    treegram.learn('JavaScript is easy');
+    treegram.learn('CoffeeScript is simple');
+    assert.deepEqual(treegram.prediction('JavaScript is'), ['easy']);
+  });
 });
