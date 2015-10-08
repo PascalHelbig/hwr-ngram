@@ -1,4 +1,4 @@
-# hwr-ngram [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# hwr-ngram [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![devDependency Status][daviddm-image-dev]][daviddm-url-dev] [![Coverage percentage][coveralls-image]][coveralls-url]
 > 
 
 
@@ -26,5 +26,7 @@ MIT © [Pascal Helbig]()
 [travis-url]: https://travis-ci.org/PascalHelbig/hwr-ngram
 [daviddm-image]: https://david-dm.org/PascalHelbig/hwr-ngram.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/PascalHelbig/hwr-ngram
+[daviddm-image-dev]: https://david-dm.org/PascalHelbig/hwr-ngram/dev-status.svg?theme=shields.io
+[daviddm-url-dev]: https://david-dm.org/PascalHelbig/hwr-ngram#info=devDependencies
 [coveralls-image]: https://coveralls.io/repos/PascalHelbig/hwr-ngram/badge.svg
 [coveralls-url]: https://coveralls.io/r/PascalHelbig/hwr-ngram
